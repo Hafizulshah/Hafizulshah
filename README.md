@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering at UTM Skudai**
 
-- 📫 How to reach me [Email](hafizulshah@graduate.utm.my)
+- 📫 How to reach me **hafizulshah@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
