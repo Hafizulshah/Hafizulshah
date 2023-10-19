@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafizulshah bin Sharom</h1>
-<h3>Bachelor Of Computer Science (Data Engineering) With Honours</h3>
+<h3 align="center">Bachelor Of Computer Science (Data Engineering) With Honours</h3>
 <h3 align="center">Welcome to my GitHub profile. This is where I will be uploading and sharing my previous projects and experiences</h3>
 
 - 🔭 I’m currently working on [Terraria Mod](https://github.com/Hafizulshah/Terraria-Mod)
