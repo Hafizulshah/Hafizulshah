@@ -13,7 +13,7 @@
 ## Me Currently 👨‍🎓
 - 🎓 Learning **Data Engineering at UTM Skudai**
 
-- 💡 Current CGPA : **3.64**
+- 💡 Current CGPA : **3.80**
 
 - 💻 Working on [Terraria Mod](https://github.com/Hafizulshah/Terraria-Mod) and mastering Python
 
